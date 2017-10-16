@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
+import img11 from '../images/osacdd.jpg';
+import img22 from '../images/chicocdd.jpg';
+import img33 from '../images/tophatcdd.jpg';
 
 export default class Cd extends Component {
 
