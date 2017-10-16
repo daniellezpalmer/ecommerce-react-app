@@ -16,4 +16,4 @@ Practice using React to make a multipage app making using of React Router.
 - Adding images to react components
 
 ## See it live
-http://diapers-r-us.surge.sh/cloth
+http://diapers-r-us.surge.sh
