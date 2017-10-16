@@ -10,9 +10,10 @@ Practice using React to make a multipage app making using of React Router.
 - [x] Create actual component in each file
 - [x] Add images
 - [x] Style
-- [ ] Surge it
+- [x] Surge it
 
 ## Challenges
 - Adding images to react components
 
-## Screenshots
+## See it live
+http://diapers-r-us.surge.sh/cloth
