@@ -3,8 +3,15 @@ import React, { Component } from 'react';
 export default class About extends Component {
 
   render() {
+
+    let style = {
+      fontFamily:"Amatic SC",
+      textAlign:"center",
+      fontSize:30
+    }
+
     return (
-      <div className="About">
+      <div style={style} className="About">
 
         <p>ABOUT US:<br></br>
 Farm-to-table church-key kickstarter tattooed salvia master cleanse scenester lyft palo santo bitters crucifix cred. Messenger bag selfies bespoke deep v flexitarian, single-origin coffee direct trade small batch neutra. Literally adaptogen affogato irony banjo craft beer enamel pin viral mlkshk live-edge. Dreamcatcher kombucha activated charcoal salvia af chartreuse. Literally heirloom keytar live-edge beard woke taxidermy tousled sartorial biodiesel. Narwhal knausgaard af, meditation portland everyday carry yr shaman. Post-ironic vegan everyday carry af pickled meggings. Flexitarian pinterest kogi selvage sriracha. Pug lo-fi schlitz quinoa drinking vinegar pop-up. Lyft bicycle rights deep v woke mumblecore unicorn semiotics flannel +1 drinking vinegar. Four loko echo park affogato fashion axe, poutine selfies cornhole organic green juice. Lumbersexual vegan keffiyeh hell of XOXO deep v crucifix literally fam craft beer williamsburg pork belly. Street art etsy literally, affogato forage listicle synth godard mumblecore cliche copper mug.
