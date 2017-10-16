@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import image from '../images/dipes.png';
+import image from '../images/cloth.jpg';
 
 class App extends Component {
 
