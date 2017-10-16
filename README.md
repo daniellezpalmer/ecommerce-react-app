@@ -8,7 +8,7 @@ Practice using React to make a multipage app making using of React Router.
 - [x] Create necessary component files
 - [x] Add imports/dependencies accordingly
 - [x] Create actual component in each file
-- [ ] Add images
+- [x] Add images
 - [ ] Style
 
 ## Challenges
