@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './component/App.js';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
 import registerServiceWorker from './registerServiceWorker';
+import App from './component/App.js';
 import BaseLayout from './component/BaseLayout.js';
 import Home from './component/Home.js'
 import About from './component/About.js';
