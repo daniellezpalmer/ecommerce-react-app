@@ -12,5 +12,6 @@ Practice using React to make a multipage app making using of React Router.
 - [ ] Style
 
 ## Challenges
+- Adding images to react components
 
 ## Screenshots
